@@ -1,4 +1,5 @@
 Rust .. . . . .. . . ..  ... .
 
+Simple 'infinite' procedural terrain generation
 
-Procedural terrain generator (Extremely simple)
+Completing this project I have decided I still don't like rust
